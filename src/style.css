@@ -11,7 +11,7 @@
     /* background-color: red; */
   }
   .tasks {
-    width: 70%;
+    width: 85%;
     margin: 40px auto;
   }
   
@@ -34,6 +34,7 @@
   #challenge {
     margin-top: 15px;
     border: 2px solid brown;
+    padding: 0 10px;
   }
   
   .challenge {
