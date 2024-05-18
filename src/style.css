@@ -34,15 +34,11 @@
   #challenge {
     margin-top: 15px;
     border: 2px solid brown;
-  }
-
-  #challenge h3, #challenge p{
     padding: 0 10px;
   }
   
-  
   .challenge {
-    font-size: 60px;
+    font-size: 50px;
     /* color: aquamarine; */
     color: blueviolet
   }
