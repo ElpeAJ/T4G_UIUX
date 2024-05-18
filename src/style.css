@@ -37,7 +37,8 @@
   }
   
   .challenge {
-    font-size: 80px;
-    color: aquamarine;
+    font-size: 60px;
+    /* color: aquamarine; */
+    color: blueviolet
   }
   
